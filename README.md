@@ -1,6 +1,7 @@
 # VM_Service
 
 📊 Overview
+
 This Power BI dashboard provides a comprehensive view of virtual machine (VM) resource usage and associated service costs for multiple customers. It integrates data from three key areas— customer lifecycle, virtual machine configurations, and cloud services to help stakeholders monitor usage, billing, and customer engagement over time.
 
 🧾 Data Sources
@@ -60,6 +61,7 @@ Bar charts, KPI cards, gauge visuals, and tables
 Alerts for approaching expiry dates using colored indicators
 
 🎯 Business Questions Answered
+
 -> Which customers are contributing the most revenue?
 
 -> What is the average cost of maintaining VMs by OS type?
