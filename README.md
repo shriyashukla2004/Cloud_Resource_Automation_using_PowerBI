@@ -12,7 +12,9 @@ The dataset includes three sheets:
 
 -> Services- Captures quantities and rates for additional services like WAF, firewall, DNS, and email.
 
+
 📈 Key Metrics Tracked
+
 -> Total Monthly Cost per Customer
 (Sum of all VM and Service costs)
 
